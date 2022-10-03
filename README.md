@@ -1,8 +1,8 @@
 
-
+![p22](https://user-images.githubusercontent.com/79530516/193622941-19e1f064-72d1-429f-bbaa-22c5ea8b48d0.png)
 <h1 align="center">Hi there 👋, I'm Adrian (pear_stack)</h1>
 <h3 align="center">Junior Embedded Developer</h3>
-![p22](https://user-images.githubusercontent.com/79530516/193622941-19e1f064-72d1-429f-bbaa-22c5ea8b48d0.png)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://github.com/kirukudenis/readme_icons/blob/master/language_and_tools/square/c/c.png" alt="c" width="50" height="50"/> 
