@@ -16,7 +16,7 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/platformio-logo-png-transparent.png" alt="" height="40"/> 
 <img src="http://www.muylinux.com/wp-content/uploads/2012/03/gcc-logo.png" alt="" width="40" height="40"/>
 <img src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/gnu-512.png" alt="" height="42"/> 
-<img src="https://openclipart.org/image/800px/214008" alt="cmake" height="38"/> 
+<img src="https://openclipart.org/image/800px/214008" alt="cmake" height="39"/> 
 
 
 
