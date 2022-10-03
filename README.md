@@ -1,4 +1,5 @@
 
+<img src="![p2](https://user-images.githubusercontent.com/79530516/193621015-9e2b3f10-d55c-4913-8df8-5f03975e8eed.png)"/>
 <h1 align="center">Hi there 👋, I'm Adrian (pear_stack)</h1>
 <h3 align="center">Junior Embedded Developer</h3>
 
@@ -21,6 +22,7 @@
 <img src="https://www.lynx.com/hs-fs/hubfs/FreeRTOS%20logo%20PNG.png?width=400&name=FreeRTOS%20logo%20PNG.png" alt="" height="40"/> 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F1381%2FPNG%2F512%2Fkicad_94309.png&f=1&nofb=1&ipt=f8fd4bff2795c54313d34146b4b91928730d379682ed8cb35d4dbdec883c10f3&ipo=images" alt="" height="40"/> 
 </p>
+
 
 
 
