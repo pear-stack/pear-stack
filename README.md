@@ -9,14 +9,15 @@
 <img src="https://github.com/kirukudenis/readme_icons/blob/master/language_and_tools/square/python/python.png" alt="py" width="40" height="40"/> 
 </p> 
 <p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="32"/> 
-<img src="https://docs.espressif.com/projects/esp-idf/en/latest/esp32/_static/espressif-logo.svg" alt="esp" height="32"/> 
-<img src="https://cmake.org/wp-content/uploads/2019/05/Cmake-logo-header.png" alt="cmake" height="32"/> 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.arm.com%2F-%2Fmedia%2Farm-com%2Fproducts%2Fprocessors%2FHero%2520Chip%2520Images%2520-%25202017.01.05%2FHero%2520Chip%2520Image%2520Gill_Cortex-M%2520web.png%3Fh%3D738%26w%3D1105%26la%3Den%26hash%3DA69CEC7883BC2FC92A51774E187569F1946A3861&f=1&nofb=1&ipt=86735f3953657dbc386ad6e419321c05790102e25a5c9530f34ac09a362c3efa&ipo=images" alt="stm" height="32"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="45"/> 
+<img src="https://www.arm.com/-/media/arm-com/products/processors/Hero%20Chip%20Images%20-%202017.01.05/Hero%20Chip%20Image%20Gill_Cortex-M%20web.png?h=738&w=1105&la=en&hash=A69CEC7883BC2FC92A51774E187569F1946A3861" alt="arm" height="45"/> 
+<img src="https://docs.espressif.com/projects/esp-idf/en/latest/esp32/_static/espressif-logo.svg" alt="esp" height="40"/> 
+<img src="https://cmake.org/wp-content/uploads/2019/05/Cmake-logo-header.png" alt="cmake" height="40"/> 
+
   
-<img src="http://www.muylinux.com/wp-content/uploads/2012/03/gcc-logo.png" alt="" height="32"/>   
-<img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" alt="" height="32"/> 
-<img src="https://freertos.org/fr-content-src/uploads/2018/07/logo-1.jpg" alt="" height="32"/> 
+<img src="http://www.muylinux.com/wp-content/uploads/2012/03/gcc-logo.png" alt="" height="45"/>   
+<img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" alt="" height="45"/> 
+<img src="https://freertos.org/fr-content-src/uploads/2018/07/logo-1.jpg" alt="" height="40"/> 
 </p>
 
 
