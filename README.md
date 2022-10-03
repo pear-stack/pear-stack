@@ -1,5 +1,5 @@
 
-<img src="![p2](https://user-images.githubusercontent.com/79530516/193621015-9e2b3f10-d55c-4913-8df8-5f03975e8eed.png)"/>
+<img src="https://user-images.githubusercontent.com/79530516/193621192-4ba0a0b6-ff70-46e7-bcd7-e531cfffc028.png"/>
 <h1 align="center">Hi there 👋, I'm Adrian (pear_stack)</h1>
 <h3 align="center">Junior Embedded Developer</h3>
 
@@ -27,3 +27,4 @@
 
 
 
+![p2](https://user-images.githubusercontent.com/79530516/193621192-4ba0a0b6-ff70-46e7-bcd7-e531cfffc028.png)
