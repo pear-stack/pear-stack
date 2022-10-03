@@ -1,5 +1,5 @@
 
-![p22](https://user-images.githubusercontent.com/79530516/193622941-19e1f064-72d1-429f-bbaa-22c5ea8b48d0.png)
+![p222](https://user-images.githubusercontent.com/79530516/193624042-c04d426d-dbc6-4e1f-8f73-ca485f605c16.png)
 <h1 align="center">Hi there 👋, I'm Adrian (pear_stack)</h1>
 <h3 align="center">Junior Embedded Developer</h3>
 
