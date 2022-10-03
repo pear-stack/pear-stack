@@ -1,4 +1,4 @@
-<img src="https://www.pcbunlimited.com/blog/wp-content/uploads/2017/04/circuitboardprototyping.jpg" object-fit="contain" heigth="200" />
+<img src="https://www.pcbunlimited.com/blog/wp-content/uploads/2017/04/circuitboardprototyping.jpg" object-fit="contain" height="200" />
 <h1 align="center">Hi there 👋, I'm Adrian (pear_stack)</h1>
 <h3 align="center">Junior Embedded Developer</h3>
 
