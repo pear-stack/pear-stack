@@ -14,11 +14,12 @@
 <img src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png" alt="esp" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="40"/> 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/platformio-logo-png-transparent.png" alt="" height="40"/> 
-<img src="http://www.muylinux.com/wp-content/uploads/2012/03/gcc-logo.png" alt="" height="40"/>  
+<img src="http://www.muylinux.com/wp-content/uploads/2012/03/gcc-logo.png" alt="" width="40" height="40"/>
+<img src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/gnu-512.png" alt="" height="40"/> 
 <img src="https://cmake.org/wp-content/uploads/2019/05/Cmake-logo-header.png" alt="cmake" height="40"/> 
 
 
-<img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" alt="" height="40"/> 
+
 <img src="https://freertos.org/fr-content-src/uploads/2018/07/logo-1.jpg" alt="" height="40"/> 
 </p>
 
