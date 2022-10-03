@@ -2,7 +2,7 @@
 ![p222](https://user-images.githubusercontent.com/79530516/193624042-c04d426d-dbc6-4e1f-8f73-ca485f605c16.png)
 <h1 align="center">Hi there 👋, I'm Adrian (pear_stack)</h1>
 <h3 align="center">Junior Embedded Developer</h3>
-<h1></h1>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://github.com/kirukudenis/readme_icons/blob/master/language_and_tools/square/c/c.png" alt="c" width="50" height="50"/> 
@@ -10,8 +10,8 @@
 <img src="https://github.com/kirukudenis/readme_icons/blob/master/language_and_tools/square/bash/bash-colored.png" alt="bash" width="50" height="50"/> 
 <img src="https://github.com/kirukudenis/readme_icons/blob/master/language_and_tools/square/python/python.png" alt="py" width="50" height="50"/> 
 </p> 
-<p align="left">
 
+<p align="left">
 <img src="https://www.arm.com/-/media/arm-com/products/processors/Hero%20Chip%20Images%20-%202017.01.05/Hero%20Chip%20Image%20Gill_Cortex-M%20web.png?h=738&w=1105&la=en&hash=A69CEC7883BC2FC92A51774E187569F1946A3861" alt="arm" height="40"/> 
 <img src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png" alt="esp" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="40"/> 
