@@ -10,11 +10,14 @@
 </p> 
 <p align="left">
 
-<img src="https://www.arm.com/-/media/arm-com/products/processors/Hero%20Chip%20Images%20-%202017.01.05/Hero%20Chip%20Image%20Gill_Cortex-M%20web.png?h=738&w=1105&la=en&hash=A69CEC7883BC2FC92A51774E187569F1946A3861" alt="arm" height="45"/> 
+<img src="https://www.arm.com/-/media/arm-com/products/processors/Hero%20Chip%20Images%20-%202017.01.05/Hero%20Chip%20Image%20Gill_Cortex-M%20web.png?h=738&w=1105&la=en&hash=A69CEC7883BC2FC92A51774E187569F1946A3861" alt="arm" height="40"/> 
+<img src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png" alt="esp" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="45"/> 
+<img src="https://cdn.freebiesupply.com/logos/large/2x/platformio-logo-png-transparent.png" alt="" height="45"/> 
 <img src="http://www.muylinux.com/wp-content/uploads/2012/03/gcc-logo.png" alt="" height="45"/>  
 <img src="https://cmake.org/wp-content/uploads/2019/05/Cmake-logo-header.png" alt="cmake" height="40"/> 
-<img src="https://docs.espressif.com/projects/esp-idf/en/latest/esp32/_static/espressif-logo.svg" alt="esp" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="45"/> 
+
+
 <img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" alt="" height="45"/> 
 <img src="https://freertos.org/fr-content-src/uploads/2018/07/logo-1.jpg" alt="" height="40"/> 
 </p>
