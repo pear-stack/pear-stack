@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Adrian (pear_stack)
 
 <!--
 **pear-stack/pear-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
