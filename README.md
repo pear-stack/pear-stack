@@ -20,7 +20,7 @@
 
 
 
-<img src="https://freertos.org/fr-content-src/uploads/2018/07/logo-1.jpg" alt="" height="40"/> 
+<img src="https://www.lynx.com/hs-fs/hubfs/FreeRTOS%20logo%20PNG.png?width=400&name=FreeRTOS%20logo%20PNG.png" alt="" height="40"/> 
 </p>
 
 
