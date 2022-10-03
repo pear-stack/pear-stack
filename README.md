@@ -2,7 +2,7 @@
 ![p222](https://user-images.githubusercontent.com/79530516/193624042-c04d426d-dbc6-4e1f-8f73-ca485f605c16.png)
 <h1 align="center">Hi there 👋, I'm Adrian (pear_stack)</h1>
 <h3 align="center">Junior Embedded Developer</h3>
-
+<h1></h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://github.com/kirukudenis/readme_icons/blob/master/language_and_tools/square/c/c.png" alt="c" width="50" height="50"/> 
