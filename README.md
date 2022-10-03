@@ -1,9 +1,5 @@
 <img src="https://www.pcbunlimited.com/blog/wp-content/uploads/2017/04/circuitboardprototyping.jpg"  
-	 style="object-fit:cover;
-     		object-position: right;
-            width:100%;
-            height:300px;
-            border: solid 1px #CCC"/>
+	 style="width: 100%; height: 300px; max-width: 100%;object-fit: cover;"/>
 <h1 align="center">Hi there 👋, I'm Adrian (pear_stack)</h1>
 <h3 align="center">Junior Embedded Developer</h3>
 
