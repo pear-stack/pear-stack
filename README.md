@@ -29,4 +29,9 @@
 </p>
 
 <h3 align="left">:mailbox_with_mail: Connect with me:</h3>
-
+<a href="#">
+  <img align="left" alt="pear Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
+</a>
+<a href="">
+  <img align="left" alt="pear Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
