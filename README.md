@@ -22,12 +22,9 @@
    <img src="https://www.lynx.com/hs-fs/hubfs/FreeRTOS%20logo%20PNG.png?width=400&name=FreeRTOS%20logo%20PNG.png" alt="" height="40"/> 
    <img src="https://camo.githubusercontent.com/130554e5f563ba5f2b016e14c23a94a9bd7c792e8df381ec88063c60a04c2f4e/68747470733a2f2f6e6f64657265642e6f72672f61626f75742f7265736f75726365732f6d656469612f6e6f64652d7265642d68657861676f6e2e737667" alt="" height="40"/> 
    <img src="https://cdn.freebiesupply.com/logos/large/2x/platformio-logo-png-transparent.png" alt="" height="40"/> 
-   <img src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/gnu-512.png" alt="" height="42"/> 
-   <img src="http://www.muylinux.com/wp-content/uploads/2012/03/gcc-logo.png" alt="" width="40" height="40"/>
    <img src="https://openclipart.org/image/800px/214008" alt="cmake" height="40"/> 
    <img src="https://user-images.githubusercontent.com/8083855/30329899-bffb884c-97e4-11e7-8b93-f8e4bed7338a.png" alt="" height="40"/> 
    <img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png" alt="" height="40"/> 
-   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F1381%2FPNG%2F512%2Fkicad_94309.png&f=1&nofb=1&ipt=f8fd4bff2795c54313d34146b4b91928730d379682ed8cb35d4dbdec883c10f3&ipo=images" alt="" height="40"/> 
 </p>
 <h3 align="left">:mailbox_with_mail: Connect with me:</h3>
 <p align="left">
