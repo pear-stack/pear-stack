@@ -19,12 +19,13 @@
    <img src="https://www.arm.com/-/media/arm-com/products/processors/Hero%20Chip%20Images%20-%202017.01.05/Hero%20Chip%20Image%20Gill_Cortex-M%20web.png?h=738&w=1105&la=en&hash=A69CEC7883BC2FC92A51774E187569F1946A3861" alt="arm" height="40"/> 
    <img src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png" alt="esp" height="40"/> 
    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="40"/> 
-   <img src="https://www.lynx.com/hs-fs/hubfs/FreeRTOS%20logo%20PNG.png?width=400&name=FreeRTOS%20logo%20PNG.png" alt="" height="40"/> 
+   <img src="https://www.lynx.com/hs-fs/hubfs/FreeRTOS%20logo%20PNG.png?width=400&name=FreeRTOS%20logo%20PNG.png" alt="frtos" height="40"/> 
    <img src="https://camo.githubusercontent.com/130554e5f563ba5f2b016e14c23a94a9bd7c792e8df381ec88063c60a04c2f4e/68747470733a2f2f6e6f64657265642e6f72672f61626f75742f7265736f75726365732f6d656469612f6e6f64652d7265642d68657861676f6e2e737667" alt="" height="40"/> 
-   <img src="https://cdn.freebiesupply.com/logos/large/2x/platformio-logo-png-transparent.png" alt="" height="40"/> 
+   <img src="https://cdn.freebiesupply.com/logos/large/2x/platformio-logo-png-transparent.png" alt="platformio" height="40"/> 
    <img src="https://openclipart.org/image/800px/214008" alt="cmake" height="40"/> 
-   <img src="https://user-images.githubusercontent.com/8083855/30329899-bffb884c-97e4-11e7-8b93-f8e4bed7338a.png" alt="" height="40"/> 
-   <img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png" alt="" height="40"/> 
+   <img src="https://user-images.githubusercontent.com/8083855/30329899-bffb884c-97e4-11e7-8b93-f8e4bed7338a.png" alt="vim" height="40"/> 
+   <img src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png" alt="vsc" height="40"/> 
+   <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/kicad-icon.png" alt="kicad" height="40"/> 
 </p>
 <h3 align="left">:mailbox_with_mail: Connect with me:</h3>
 <p align="left">
