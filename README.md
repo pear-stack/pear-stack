@@ -4,11 +4,11 @@
 <h3 align="center">Junior Embedded Developer</h3>
 <p>
    <h3 align="left">About me:</h3>
-   - :man_student: Third year Electronics and Telecommunication student 
-   - :telescope: Interested in embedded systems, low-level programming, electronics and 3D modeling 
-   - :seedling: Currently learning ESP IDF, RTOS and advanced aspects of C++ 
-   - :zap: Electronics and IoT scientific clubs member 
-   - :trophy: Scholarship holder at PB (2020-2021)
+   - :man_student: Third year Electronics and Telecommunication student <br/>
+   - :telescope: Interested in embedded systems, low-level programming, electronics and 3D modeling <br/>
+   - :seedling: Currently learning ESP IDF, RTOS and advanced aspects of C++ <br/>
+   - :zap: Electronics and IoT scientific clubs member <br/>
+   - :trophy: Scholarship holder at PB (2020-2021) <br/>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
