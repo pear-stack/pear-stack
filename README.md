@@ -2,7 +2,14 @@
 ![p222](https://user-images.githubusercontent.com/79530516/193624042-c04d426d-dbc6-4e1f-8f73-ca485f605c16.png)
 <h1 align="center">Hi there 👋, I'm Adrian (pear_stack)</h1>
 <h3 align="center">Junior Embedded Developer</h3>
-
+<p>
+   <h3 align="left">About me:</h3>
+   - :man_student: Third year Electronics and Telecommunication student 
+   - :telescope: Interested in embedded systems, low-level programming, electronics and 3D modeling 
+   - :seedling: Currently learning ESP IDF, RTOS and advanced aspects of C++ 
+   - :zap: Electronics and IoT scientific clubs member 
+   - :trophy: Scholarship holder at PB (2020-2021)
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://github.com/kirukudenis/readme_icons/blob/master/language_and_tools/square/c/c.png" alt="c" width="50" height="50"/> 
@@ -25,4 +32,5 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F1381%2FPNG%2F512%2Fkicad_94309.png&f=1&nofb=1&ipt=f8fd4bff2795c54313d34146b4b91928730d379682ed8cb35d4dbdec883c10f3&ipo=images" alt="" height="40"/> 
 </p>
 
+<h3 align="left">Connect with me:</h3>
 
